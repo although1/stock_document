@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "股票基本原则.md",
+                "file": "2026-01-12.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "股票基本原则"
+              "title": "2026-01-12"
             }
           }
         ]
@@ -80,17 +80,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "股票基本原则.md",
+                "file": "2026-01-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "股票基本原则 的大纲"
+              "title": "2026-01-12 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-01-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-07 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -196,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,11 +211,14 @@
   },
   "active": "7564d7f283373bca",
   "lastOpenFiles": [
+    "2026-01-07.md",
+    "2026-01-12.md",
+    "股票相关图.canvas",
+    "png/股票底背离.png",
+    "png/股票顶背离.png",
+    "股票基本原则.md",
     "基本趋势.md",
     "股票自选股基本信息.md",
-    "股票基本原则.md",
-    "2026-01-07.md",
-    "吴富贵持仓.md",
-    "股票相关图.canvas"
+    "吴富贵持仓.md"
   ]
 }
