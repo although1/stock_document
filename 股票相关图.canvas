@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"39e9d0dc65ca2bd0","type":"file","file":"png/股票MACD1.png","x":-620,"y":-400,"width":300,"height":400},
+		{"id":"a66dfdaf75c163e8","type":"file","file":"png/股票MACD2.png","x":-320,"y":-400,"width":300,"height":400},
+		{"id":"00a907cc0d304ef7","type":"file","file":"png/股票MACD3.png","x":-20,"y":-400,"width":300,"height":400},
+		{"id":"28aa8f4d9b21217b","type":"file","file":"png/股票MACD4.png","x":280,"y":-400,"width":300,"height":400},
+		{"id":"2e13baea40ec982e","type":"text","text":"MACD","x":-620,"y":-500,"width":250,"height":60},
+		{"id":"ed645f6f547d7d27","type":"file","file":"png/股票MACD5.png","x":-620,"y":40,"width":300,"height":400},
+		{"id":"e0a998a9f026b5c7","type":"file","file":"png/股票_连续阴跌决策.png","x":-620,"y":480,"width":96,"height":400},
+		{"id":"a989717d8c627be2","type":"file","file":"png/股票_二分之一圆弧.png","x":-370,"y":480,"width":310,"height":399}
+	],
+	"edges":[]
+}

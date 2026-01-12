@@ -1,0 +1,14 @@
+/* .markdown-priview-view strong,.cm-s-obsidian.cm-strong{
+  color: red
+} */
+/* .markdown-preview-view{
+  .cm-strong,
+  strong,
+  b{
+    color: red;
+  }
+} */
+
+.cm-strong,strong{
+  background-color: #a6ff00;
+}
