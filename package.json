@@ -1,0 +1,16 @@
+{
+  "name": "stock-document-dashboard",
+  "version": "1.0.0",
+  "description": "A dashboard for stock investment documentation",
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && npx serve dist"
+  },
+  "dependencies": {
+    "marked": "^12.0.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
