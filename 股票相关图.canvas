@@ -9,7 +9,7 @@
 		{"id":"a989717d8c627be2","type":"file","file":"png/股票_二分之一圆弧.png","x":-370,"y":480,"width":310,"height":399},
 		{"id":"39e9d0dc65ca2bd0","type":"file","file":"png/股票MACD1.png","x":-620,"y":-400,"width":300,"height":400},
 		{"id":"b670395269ed073f","type":"file","file":"png/股票顶背离.png","x":-620,"y":960,"width":260,"height":399},
-		{"id":"28e27495025b388c","x":-320,"y":960,"width":244,"height":400,"type":"file","file":"png/股票底背离.png"}
+		{"id":"28e27495025b388c","type":"file","file":"png/股票底背离.png","x":-320,"y":960,"width":244,"height":399}
 	],
 	"edges":[]
 }
