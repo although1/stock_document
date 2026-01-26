@@ -4,5 +4,5 @@
   "enabledCssSnippets": [
     "bold-style"
   ],
-  "showRibbon": false
+  "showRibbon": true
 }
