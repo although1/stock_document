@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-04.md",
+                "file": "2026-01-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-04"
+              "title": "2026-01-31"
             }
           },
           {
@@ -102,9 +102,23 @@
               "icon": "lucide-file",
               "title": "周K分析_20260131"
             }
+          },
+          {
+            "id": "84af8168d1f51904",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "2026-01-07.md",
+                "bFile": "2026-01-07.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-01-07  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -176,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5,
-    "collapsed": true
+    "width": 520.5
   },
   "right": {
     "id": "ab97a43480534a72",
@@ -278,8 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,13 +305,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37d2336cad68b632",
+  "active": "84af8168d1f51904",
   "lastOpenFiles": [
+    "吴富贵_技术分析贴.md",
     "2026-02-06.md",
     "2026-02-05.md",
-    "2026-02-03.md",
-    "周K分析_20260131.md",
     "2026-02-04.md",
+    "2026-02-03.md",
+    "2026-02-02.md",
+    "2026-01-31.md",
+    "2026-01-26.md",
+    "2026-01-29.md",
+    "2026-01-19.md",
+    "2026-01-15.md",
+    "2026-01-14.md",
+    "2026-01-12.md",
+    "2026-01-07.md",
+    "周K分析_20260131.md",
     "K线形态.md",
     "低风险，高回报 ([荷]平·范·弗利特,[荷]杨·德·科宁 [[荷]平·范·弗利特,[荷]杨·德·科宁]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "png/股价波动阶段图.jpg",
@@ -307,12 +329,8 @@
     "约翰•聂夫的成功投资(珍藏版) (华章经典•金融投资) (约翰·聂夫 (John Neff) [约翰·聂夫 (John Neff)]) (z-library.sk, 1lib.sk, z-lib.sk).epub",
     "周期 (霍华德·马克斯) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
     "笑傲牛熊 (史丹·温斯坦) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "2026-02-02.md",
-    "2026-01-31.md",
-    "2026-01-07.md",
     "短线英雄学习.md",
     "股票基本原则.md",
-    "2026-01-19.md",
     "png/K线指标_布林突破上轨.png",
     "png/一阳穿三线_神宇股份20260115.png",
     "png/阳包阴_沪电股份_宁夏建材20190113.png",
@@ -321,17 +339,12 @@
     "png/股票_二分之一圆弧.png",
     "png/股票MACD顶背离.png",
     "png/股票MACD底背离.png",
-    "2026-01-29.md",
     "股票自选股基本信息.md",
     "周K分析_20260126.md",
-    "2026-01-26.md",
     "png/股票MACD3.png",
     "K线指标.md",
     "基本趋势.md",
-    "2026-01-15.md",
-    "2026-01-14.md",
     "股票相关图.canvas",
-    "2026-01-12.md",
     "package.json",
     "package-lock.json",
     "netlify.toml",
