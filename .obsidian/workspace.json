@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-09.md",
+                "file": "2026-02-17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-09"
+              "title": "2026-02-17"
+            }
+          },
+          {
+            "id": "b9c73e12101f7a09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-15"
+            }
+          },
+          {
+            "id": "624c843034d53ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "股票基本原则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "股票基本原则"
             }
           },
           {
@@ -27,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "吴富贵_谷底进阶版_20250519开始.md",
+                "file": "周K分析_20260213.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "吴富贵_谷底进阶版_20250519开始"
+              "title": "周K分析_20260213"
             }
           },
           {
@@ -48,49 +76,20 @@
             }
           },
           {
-            "id": "37d2336cad68b632",
+            "id": "4fd4c557e57bcdd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-31.md",
+                "file": "股息率与股价跌幅安全边界问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-31"
-            }
-          },
-          {
-            "id": "31ac5e9ffc8e153c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "周K分析_20260206.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "周K分析_20260206"
-            }
-          },
-          {
-            "id": "a0a35521c49d31f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "周K分析_20260131.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "周K分析_20260131"
+              "title": "股息率与股价跌幅安全边界问题"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "250",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,13 +148,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "吴富贵_谷底反弹系列.md",
+                "file": "2026-02-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "吴富贵_谷底反弹系列 的大纲"
+              "title": "2026-02-13 的大纲"
             }
           }
         ]
@@ -279,54 +278,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31ac5e9ffc8e153c",
+  "active": "0574a3a3d5f88c6c",
   "lastOpenFiles": [
-    "周K分析_20260131.md",
-    "周K分析_20260206.md",
-    "吴富贵_谷底进阶版_20250519开始.md",
-    "2026-02-03.md",
-    "2026-01-31.md",
+    "周K分析_20260213.md",
+    "2026-02-17.md",
+    "2026-02-15.md",
+    "2026-01-26.md",
+    "股票基本原则.md",
     "2026-02-04.md",
+    "股息率与股价跌幅安全边界问题.md",
+    "2026-01-31.md",
+    "吴富贵_谷底进阶版_20250519开始.md",
     "2026-02-09.md",
+    "K线指标.md",
+    "K线形态.md",
+    "基本趋势.md",
+    "book/约翰•聂夫的成功投资(珍藏版) (华章经典•金融投资) (约翰·聂夫 (John Neff) [约翰·聂夫 (John Neff)]) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+    "book/笑傲牛熊 (史丹·温斯坦) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "book/短线英雄.pdf",
+    "book/低风险，高回报 ([荷]平·范·弗利特,[荷]杨·德·科宁 [[荷]平·范·弗利特,[荷]杨·德·科宁]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "book/周期 (霍华德·马克斯) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "book",
+    "新建文件夹",
     "吴富贵_谷底反弹系列_20250705开始.md",
-    "吴富贵_周上周下篇_20260125开始.md",
+    "2026-02-05.md",
+    "周K分析_20260206.md",
+    "png/吴富贵帖子20250407_技术分享.png",
+    "周K分析_20260131.md",
     "png/周上周下篇_首突结合2.png",
+    "png/股息率与股价跌幅安全边界2_6%股息.png",
+    "2026-01-15.md",
+    "png/股息率与股价跌幅安全边界1_5%股息.png",
+    "2026-02-13.md",
+    "2026-01-14.md",
+    "周K分析_20260126.md",
+    "股票自选股基本信息.md",
+    "2026-02-03.md",
+    "吴富贵_周上周下篇_20260125开始.md",
     "png/周上周下篇衍生篇4.png",
     "png/周上周下篇_首突结合.png",
     "png/周上周下篇5_补丁.png",
     "png/周上周下篇6衍生篇3之白色家电.png",
     "png/周上周下篇6衍生篇2.png",
     "png/周上周下篇6.png",
-    "png/周上周下篇5.png",
     "低风险，高回报 ([荷]平·范·弗利特,[荷]杨·德·科宁 [[荷]平·范·弗利特,[荷]杨·德·科宁]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "png/周上周下篇4_网友配图.png",
-    "png/周上周下篇4.png",
-    "2026-02-05.md",
-    "K线形态.md",
     "2026-02-06.md",
     "2026-01-07.md",
-    "股票基本原则.md",
-    "2026-01-26.md",
-    "2026-02-02.md",
-    "2026-01-19.md",
-    "短线英雄学习.md",
     "股票相关图.canvas",
-    "K线指标.md",
     "未命名 3.base",
-    "未命名 2.base",
-    "未命名.base",
-    "未命名 1.base",
-    "吴富贵_技术分析贴.md",
-    "短线英雄.pdf",
-    "约翰•聂夫的成功投资(珍藏版) (华章经典•金融投资) (约翰·聂夫 (John Neff) [约翰·聂夫 (John Neff)]) (z-library.sk, 1lib.sk, z-lib.sk).epub",
-    "周期 (霍华德·马克斯) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
-    "笑傲牛熊 (史丹·温斯坦) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "2026-01-29.md",
-    "股票自选股基本信息.md",
-    "周K分析_20260126.md",
-    "基本趋势.md",
-    "2026-01-15.md",
-    "2026-01-14.md",
-    "package.json"
+    "未命名 2.base"
   ]
 }
