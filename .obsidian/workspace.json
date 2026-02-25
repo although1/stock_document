@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-02-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-20"
-            }
-          },
-          {
-            "id": "eabebf0d5a677f34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "2026-02-19.md",
                 "mode": "source",
                 "source": false
@@ -36,21 +22,7 @@
             }
           },
           {
-            "id": "0574a3a3d5f88c6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-02-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-17"
-            }
-          },
-          {
-            "id": "199edf6947f8fe9d",
+            "id": "afd3d05a629edbb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,8 +34,51 @@
               "icon": "lucide-file",
               "title": "股票基本原则"
             }
+          },
+          {
+            "id": "eabebf0d5a677f34",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "2026-01-07.md",
+                "bFile": "2026-01-07.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-01-07  (Working Tree)"
+            }
+          },
+          {
+            "id": "199edf6947f8fe9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-24"
+            }
+          },
+          {
+            "id": "ae19fea2bed8d8f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "吴富贵_技术分析贴.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "吴富贵_技术分析贴"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,20 +137,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "股票基本原则.md",
+                "file": "2026-02-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "股票基本原则 的大纲"
+              "title": "2026-02-25 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 520.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab97a43480534a72",
@@ -236,8 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,28 +266,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "624c843034d53ce0",
+  "active": "eabebf0d5a677f34",
   "lastOpenFiles": [
+    "2026-02-25.md",
+    "周K分析_20260213.md",
+    "2026-01-26.md",
+    "2026-01-19.md",
+    "2026-01-14.md",
+    "2026-01-07.md",
+    "2026-02-19.md",
+    "2026-02-24.md",
+    "2026-02-15.md",
+    "2026-02-17.md",
+    "2026-02-06.md",
+    "2026-02-20.md",
     "股票基本原则.md",
+    "2026-02-05.md",
+    "2026-02-04.md",
+    "2026-02-02.md",
+    "2026-01-31.md",
+    "2026-02-13.md",
+    "吴富贵_技术分析贴.md",
+    "2026-01-15.md",
+    "吴富贵_谷底进阶版_20250519开始.md",
+    "周K分析_20260206.md",
+    "吴富贵帖子202504.md",
+    "2026-02-03.md",
     "Pasted image 20260221083003.png",
     "短线英雄学习.md",
     "基本趋势.md",
-    "2026-02-20.md",
-    "2026-02-21.md",
-    "2026-02-19.md",
-    "2026-02-17.md",
-    "2026-02-15.md",
-    "周K分析_20260206.md",
-    "周K分析_20260213.md",
-    "周K分析_20260131.md",
-    "2026-01-26.md",
-    "2026-02-04.md",
-    "股息率与股价跌幅安全边界问题.md",
-    "2026-01-31.md",
-    "吴富贵_谷底进阶版_20250519开始.md",
-    "2026-02-09.md",
-    "K线指标.md",
-    "K线形态.md",
     "book/约翰•聂夫的成功投资(珍藏版) (华章经典•金融投资) (约翰·聂夫 (John Neff) [约翰·聂夫 (John Neff)]) (z-library.sk, 1lib.sk, z-lib.sk).epub",
     "book/笑傲牛熊 (史丹·温斯坦) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "book/短线英雄.pdf",
@@ -280,16 +302,10 @@
     "book/周期 (霍华德·马克斯) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
     "book",
     "新建文件夹",
-    "吴富贵_谷底反弹系列_20250705开始.md",
-    "2026-02-05.md",
     "png/吴富贵帖子20250407_技术分享.png",
     "png/周上周下篇_首突结合2.png",
     "png/股息率与股价跌幅安全边界2_6%股息.png",
-    "2026-01-15.md",
     "png/股息率与股价跌幅安全边界1_5%股息.png",
-    "2026-02-13.md",
-    "2026-01-14.md",
-    "周K分析_20260126.md",
     "png/周上周下篇衍生篇4.png",
     "png/周上周下篇_首突结合.png",
     "png/周上周下篇5_补丁.png",
