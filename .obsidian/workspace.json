@@ -209,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,8 +225,8 @@
   },
   "active": "624c843034d53ce0",
   "lastOpenFiles": [
-    "202602/2026-02-25.md",
     "202602/2026-02-27.md",
+    "202602/2026-02-25.md",
     "网页软件制作/网页2026-02-26.md",
     "周K分析/周K分析_20260131.md",
     "周K分析/周K分析_20260126.md",
