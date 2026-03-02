@@ -25,6 +25,20 @@
             "id": "c164428be48453f6",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "202602/2026-02-25.md",
+                "bFile": "202602/2026-02-25.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 2026-02-25  (Working Tree)"
+            }
+          },
+          {
+            "id": "c96b43070f50de39",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "202602/2026-02-25.md",
@@ -35,7 +49,8 @@
               "title": "2026-02-25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,10 +238,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "624c843034d53ce0",
+  "active": "c164428be48453f6",
   "lastOpenFiles": [
+    "202603/2026-03-02.md",
     "202602/2026-02-27.md",
     "202602/2026-02-25.md",
+    "202603",
     "网页软件制作/网页2026-02-26.md",
     "周K分析/周K分析_20260131.md",
     "周K分析/周K分析_20260126.md",
@@ -251,9 +268,7 @@
     "202602/2026-02-04.md",
     "202601/2026-01-26.md",
     "202601/2026-01-19.md",
-    "吴富贵/吴富贵帖子202504.md",
     "网页软件制作",
-    "吴富贵/吴富贵_周上周下篇_20260125开始.md",
     "吴富贵",
     "周K分析",
     "Pasted image 20260221083003.png",
@@ -261,7 +276,6 @@
     "book/笑傲牛熊 (史丹·温斯坦) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "book/短线英雄.pdf",
     "book/低风险，高回报 ([荷]平·范·弗利特,[荷]杨·德·科宁 [[荷]平·范·弗利特,[荷]杨·德·科宁]) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "book/周期 (霍华德·马克斯) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
     "png/吴富贵帖子20250407_技术分享.png",
     "png/周上周下篇_首突结合2.png",
     "png/股息率与股价跌幅安全边界2_6%股息.png",
