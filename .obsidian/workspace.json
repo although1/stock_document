@@ -8,49 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "624c843034d53ce0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202602/2026-02-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-27"
-            }
-          },
-          {
-            "id": "c164428be48453f6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "202602/2026-02-25.md",
-                "bFile": "202602/2026-02-25.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2026-02-25  (Working Tree)"
-            }
-          },
-          {
             "id": "c96b43070f50de39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202602/2026-02-25.md",
+                "file": "202603/2026-03-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-25"
+              "title": "2026-03-03"
+            }
+          },
+          {
+            "id": "ee88c02856e3e901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202603/2026-03-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-02"
+            }
+          },
+          {
+            "id": "71962647b5c56841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "周K分析/周K分析_20260302.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "周K分析_20260302"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,18 +238,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c164428be48453f6",
+  "active": "c96b43070f50de39",
   "lastOpenFiles": [
     "202603/2026-03-02.md",
-    "202602/2026-02-27.md",
+    "202603/2026-03-03.md",
     "202602/2026-02-25.md",
+    "202602/2026-02-27.md",
+    "周K分析/周K分析_20260302.md",
+    "202602/2026-02-26.md",
     "202603",
     "网页软件制作/网页2026-02-26.md",
     "周K分析/周K分析_20260131.md",
     "周K分析/周K分析_20260126.md",
     "股票基本原则.md",
     "网页软件制作/网页2026-02-05.md",
-    "2026-02-26.md",
     "202601/2026-01-31.md",
     "周K分析/周K分析_20260213.md",
     "网页软件制作/网页2026-02-19.md",
@@ -267,7 +269,6 @@
     "202602/2026-02-06.md",
     "202602/2026-02-04.md",
     "202601/2026-01-26.md",
-    "202601/2026-01-19.md",
     "网页软件制作",
     "吴富贵",
     "周K分析",
