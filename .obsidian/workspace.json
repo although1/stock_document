@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "bd7768261b4df302",
+        "id": "ce3665765ea2a751",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7ccd9eb395171f",
+            "id": "2ec6307f6732fbcf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "202603/2026-03-04.md",
-                "bFile": "202603/2026-03-04.md",
-                "aRef": ""
+                "file": "202603/2026-03-02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-03-04  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-03-02"
+            }
+          },
+          {
+            "id": "c60eaccc09d88aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202603/2026-03-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-10"
+            }
+          },
+          {
+            "id": "b5e60c02929400e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "周K分析/周K分析_20260313.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "周K分析_20260313"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 520.5
+    "width": 520.5,
+    "collapsed": true
   },
   "right": {
     "id": "ab97a43480534a72",
@@ -194,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +239,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd7ccd9eb395171f",
+  "active": "c60eaccc09d88aa0",
   "lastOpenFiles": [
+    "周K分析/周K分析_20260313.md",
+    "202603/2026-03-02.md",
+    "202603/2026-03-10.md",
+    "202603/2026-03-03.md",
+    "202603/2026-03-04.md",
+    "202603/2026-03-09.md",
     "周K分析/周K分析_20260307.md",
     "周K分析/周K分析_20260213.md",
-    "202603/2026-03-04.md",
     "吴富贵/吴富贵_不想努力模式投资大法篇.md",
     "png/吴富贵_不想努力投资大法篇3.png",
-    "202603/2026-03-02.md",
     "202602/2026-02-24.md",
     "png_吴富贵谷底进阶版/谷底进阶版开启4_云南白药股息.png",
     "股票相关图.canvas",
@@ -245,10 +280,6 @@
     "202602/2026-02-02.md",
     "202601/2026-01-31.md",
     "202601/2026-01-26.md",
-    "202601/2026-01-19.md",
-    "202601/2026-01-15.md",
-    "202601/2026-01-14.md",
-    "202601/2026-01-07.md",
     "202603",
     "202602",
     "202601",
